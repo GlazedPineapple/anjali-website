@@ -15,6 +15,5 @@ jobs:
         github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
         keep_history: true
         local_dir: public
-        deployment_file: true
         on:
           branch: master
