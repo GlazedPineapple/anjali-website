@@ -1,4 +1,4 @@
-language: minimal
+language: generic
 jobs:
   include:
     - stage: Build and Deploy
