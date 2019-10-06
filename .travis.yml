@@ -1,13 +1,13 @@
 language: rust
 jobs:
   include:
-    - stage: Get Zola
-      script: git clone https://github.com/getzola/zola
-    - stage: Build Zola
-      script: cargo build --release
-    - stage: Build
-      script: zola/target/release/zola build
-    - stage: Deploy
+    - stage: Build and Deploy
+      script: |
+        git clone https://github.com/getzola/zola
+        cd zola
+        cargo build --release
+        cd ..
+        zola/target/release/zola build
       deploy:
         provider: pages
         skip_cleanup: true
