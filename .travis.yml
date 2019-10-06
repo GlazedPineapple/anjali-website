@@ -8,7 +8,9 @@ addons:
 jobs:
   include:
     - stage: Build and Deploy
-      script: zola build
+      script: |
+        zola build
+        echo anjali.uses-light-the.me > public/CNAME
       deploy:
         provider: pages
         skip_cleanup: true
