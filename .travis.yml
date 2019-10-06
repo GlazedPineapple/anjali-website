@@ -1,7 +1,9 @@
 language: generic
 os: osx
-before_install:
-  - brew install zola
+addons:
+  homebrew:
+    packages:
+    - zola
 jobs:
   include:
     - stage: Build and Deploy
