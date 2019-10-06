@@ -1,10 +1,11 @@
 language: generic
+os: osx
 before_install:
-  - sudo apt install -y openssl
+  - brew install zola
 jobs:
   include:
     - stage: Build and Deploy
-      script: sh build.sh
+      script: zola build
       deploy:
         provider: pages
         skip_cleanup: true
