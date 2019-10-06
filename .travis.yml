@@ -3,11 +3,9 @@ jobs:
   include:
     - stage: Build and Deploy
       script: |
-        git clone https://github.com/getzola/zola
-        cd zola
-        cargo build --release
-        cd ..
-        zola/target/release/zola build
+        wget -O zola.tar.gz https://github.com/getzola/zola/releases/download/v0.9.0/zola-v0.9.0-x86_64-unknown-linux-gnu.tar.gz
+        tar -xvzf zola.tar.gz
+        zola/zola build
       deploy:
         provider: pages
         skip_cleanup: true
