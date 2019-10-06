@@ -1,4 +1,6 @@
 language: generic
+before_install:
+  - sudo apt install -y openssl
 jobs:
   include:
     - stage: Build and Deploy
