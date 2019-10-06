@@ -1,0 +1,17 @@
+language: rust
+jobs:
+  include:
+    - stage: Get Zola
+      script: git clone https://github.com/getzola/zola
+    - stage: Build Zola
+      script: cargo build --release
+    - stage: Build
+      script: zola/target/release/zola build
+    - stage: Deploy
+      deploy:
+        provider: pages
+        skip_cleanup: true
+        github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+        keep_history: true
+        on:
+          branch: master
