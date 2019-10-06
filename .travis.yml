@@ -2,13 +2,12 @@ language: generic
 os: osx
 cache:
   directories:
-    - ~/Library/Caches/Homebrew
-    - /Library/Caches/Homebrew
+    - /usr/local/Homebrew/Library/Taps/homebrew/homebrew-bundle
 addons:
   homebrew:
     packages:
     - zola
-    # update: true
+    update: true
 jobs:
   include:
     - stage: Build and Deploy
