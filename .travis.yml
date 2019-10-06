@@ -2,14 +2,7 @@ language: minimal
 jobs:
   include:
     - stage: Build and Deploy
-      script: |
-        set -e
-        curl –q -o zola.tar.gz https://github.com/getzola/zola/releases/download/v0.9.0/zola-v0.9.0-x86_64-unknown-linux-gnu.tar.gz
-        echo Finished download
-        tar -xvzf zola.tar.gz
-        echo Finished unTar
-        ./zola/zola build
-        echo Finished Build
+      script: sh build.sh
       deploy:
         provider: pages
         skip_cleanup: true
