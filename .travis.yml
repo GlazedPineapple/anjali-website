@@ -1,5 +1,9 @@
 language: generic
 os: osx
+cache:
+  directories:
+    - ~/Library/Caches/Homebrew
+    - /Library/Caches/Homebrew
 addons:
   homebrew:
     packages:
