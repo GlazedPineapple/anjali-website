@@ -1,19 +1,13 @@
 language: generic
-os: osx
-cache:
-  directories:
-    - $HOME/Library/Caches/Homebrew
-before_cache:
-  - brew cleanup
-before_install:
-  - brew update
-  - brew install zola
+dist: bionic
+addons:
+  apt:
+    packages:
+      - openssl
 jobs:
   include:
     - stage: Build and Deploy
-      script: |
-        zola build
-        echo anjali.uses-light-the.me > public/CNAME
+      script: sh build.sh
       deploy:
         provider: pages
         skip_cleanup: true
