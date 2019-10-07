@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://anjali.uses-light-the.me"
-title = "Example title"
-description = "Eample site description"
+title = "Anjali's Lovely Blog"
+description = "This is a blog"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
