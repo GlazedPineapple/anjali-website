@@ -1,5 +1,9 @@
 language: generic
-os: linux
+dist: bionic
+addons:
+  apt:
+    packages:
+      - openssl
 jobs:
   include:
     - stage: Build and Deploy
