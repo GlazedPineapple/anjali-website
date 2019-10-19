@@ -5,17 +5,17 @@ on: [push]
 jobs:
   build:
     name: Build
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Get Zola
-        run: brew install zola
+        run: curl -sL "https://github.com/getzola/zola/releases/download/v0.9.0/zola-v0.9.0-x86_64-unknown-linux-gnu.tar.gz" | tar zxv
       - name: Checkout
         uses: actions/checkout@master
-      - name: Build and Deploy
-        uses: JamesIves/github-pages-deploy-action@master
+      - name: Build
+        run: ./zola build
+      - name: Deploy
+        uses: docker://peaceiris/gh-pages:v2.5.0
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BASE_BRANCH: master # The branch the action should deploy from.
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: public # The folder the action should deploy.
-          BUILD_SCRIPT: zola build # The build script the action should run prior to deploying.
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./public
