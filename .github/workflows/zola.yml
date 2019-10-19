@@ -15,6 +15,8 @@ jobs:
         run: curl -sL "https://github.com/getzola/zola/releases/download/v0.9.0/zola-v0.9.0-x86_64-unknown-linux-gnu.tar.gz" | tar zxv
       - name: Build
         run: ./zola build
+      - name: Inject CNAME
+        run: echo anjali.uses-light-the.me > public/CNAME
       - name: Deploy
         uses: docker://peaceiris/gh-pages:v2.5.0
         env:
