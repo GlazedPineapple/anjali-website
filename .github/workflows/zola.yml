@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: Get Zola
         run: curl -sL "https://github.com/getzola/zola/releases/download/v0.9.0/zola-v0.9.0-x86_64-unknown-linux-gnu.tar.gz" | tar zxv
+      - name: DEBUG
+        run: ls -la && file zola
       - name: Checkout
         uses: actions/checkout@master
       - name: Build
