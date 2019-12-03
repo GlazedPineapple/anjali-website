@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "about"
 date = 2019-12-30
 +++
 Hello there!
