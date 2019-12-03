@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://anjali.uses-light-the.me"
 title = "Our Own Words"
-description = "[PLACEHOLDER]"
+description = "PLACEHOLDER"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -20,5 +20,5 @@ hyde_sticky = true
 hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
-    {url = "https://anjali.uses-light-the.me", name = "About"},
+    {url = "https://google.com", name = "About"},
 ]
