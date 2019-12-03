@@ -20,5 +20,5 @@ hyde_sticky = true
 hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
-    {url = "https://google.com", name = "About"},
+    {url = "https://anjali.uses-light-the.me/about", name = "About"},
 ]
