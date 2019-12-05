@@ -16,7 +16,7 @@ jobs:
       - name: Build
         run: ./zola build
       - name: Inject CNAME
-        run: echo anjali.uses-light-the.me > public/CNAME
+        run: echo ourownwords.net > public/CNAME
       - name: Deploy
         uses: docker://peaceiris/gh-pages:v2.5.0
         env:

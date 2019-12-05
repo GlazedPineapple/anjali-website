@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://anjali.uses-light-the.me"
+base_url = "https://ourownwords.net"
 title = "Our Own Words"
 description = "PLACEHOLDER"
 
@@ -20,5 +20,5 @@ hyde_sticky = true
 hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
-    {url = "https://anjali.uses-light-the.me/about/", name = "About"},
+    {url = "https://ourownwords.net/about/", name = "About"},
 ]
