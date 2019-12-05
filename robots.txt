@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://anjali.uses-light-the.me/sitemap.xml
+Sitemap: https://ourownwords.net/sitemap.xml
