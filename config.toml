@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://ourownwords.net"
 title = "Our Own Words"
-description = "PLACEHOLDER"
+description = "A space for teens to share creative writing they are proud of"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
