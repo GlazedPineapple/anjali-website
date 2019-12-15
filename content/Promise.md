@@ -1,6 +1,6 @@
 +++
 title = "Promise"
-date = 2019-14-12
+date = 2019-12-14
 +++
 
     From far away, he is a scar. He is hole in the seam of the sky, a piece of the darkness gathered beneath, the first blot of night. A shard of shadow borne by the sea.
