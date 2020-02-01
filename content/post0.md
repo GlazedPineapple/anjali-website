@@ -41,7 +41,7 @@ again. Sometimes it’s braver to arm yourself with someone else’s noise. <br/
 I ask the impossible, I know, I know... <br/>
 I know I don’t. I can’t. <br/>
 The world has fed me roses and <br/>
-it has fed you broken glass. but <br/>
+it has fed you broken glass. But <br/>
 my friend, I will boomerang you a smile; I will wrap up your scraped knuckles with crackling-thin hope; I <br/>
 will pour my quiet, my waiting, my different kind <br/>
 of crying on the burning, burned-up places. I <br/>
