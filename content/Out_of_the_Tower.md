@@ -39,7 +39,7 @@ But there wasn’t only laughter in the streets. <br/>
 
 Every day our family braved the Indian traffic to see some new wonder of the city, we passed by lots of other cities that no one stopped to look at for so long. Tiny slums held up by cardboard and garbage and the scrawniest of hope. Laundry in bright reds and oranges dangling above the dust. Blade-boned people boxed in by shabby metal walls. <br/>
 
-Of course, every time a girl with an armful of flowers (or once, inexplicably, a teetering stack of copies of The Fault in Our Stars) tapped on the car window, my parents and aunties and uncles told me and my sister not to open up. There were too many of them, and if you gave one even a rupee, you’d have to help them all. You can’t know what they’d do. You can’t fix the world, not like that. <br/>
+Of course, every time a girl with an armful of flowers (or once, inexplicably, a teetering stack of copies of <em>The Fault in Our Stars</em>) tapped on the car window, my parents and aunties and uncles told me and my sister not to open up. There were too many of them, and if you gave one even a rupee, you’d have to help them all. You can’t know what they’d do. You can’t fix the world, not like that. <br/>
 
 I wasn’t naive enough to think my grownups heartless. <br/>
 
