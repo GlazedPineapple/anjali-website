@@ -77,7 +77,7 @@ put the pretty things they’ve broken. <br/></p>
 <p>
 It’s time to plunge your hands <br/>
 into the silt of some old pond <br/>
-     you know the one <br/>
+     (you know the one) <br/>
 smash the toy boats <br/>
 toy leaves <br/>
 toy stones. <br/>
