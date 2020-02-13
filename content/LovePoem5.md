@@ -1,5 +1,5 @@
 +++
-title = "Boy and Car in White"
+title = "Midwinter"
 date = 2020-02-05
 +++
 
