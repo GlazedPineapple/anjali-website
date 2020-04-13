@@ -17,3 +17,6 @@ Elliot drives. Later, they’ll think of a destination, some candy or coffee tha
 They taste freedom, like sugar and salt, and feel something inside them unfurl, some wild thing they didn’t know had been wedged between their ribs. They drive, outrunning every heavy thing, alone except for NPR and speed-mangled birdsong. 
 
 They drive, and they half-believe that they will never be still again.
+
+
+<i>by A.J.</i>
