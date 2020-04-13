@@ -19,3 +19,6 @@ They walk inside to sleep.
 Behind them shines Sirius, unblinking eye of Canis Major. Long ago, storytellers, faces glowing in fragments of firelight, told stories of the Dog Star that guarded the earth. The memory of perfect puppy love, strung together, lines of light, easy as magic. Beautiful as physics. A fact: Sirius spins closer to us each year. Maybe Orion stands waiting for the Dog Star, arms open. Maybe all dogs know a bit about coming home.
 
 Now Canis Major stretches in the sky above Ash, half wrapped around the silhouette of one night-painted house, wrapped around one sleeping kid with harvest-moon skin, wrapped around a dog that couldn’t be anywhere else. 
+
+
+<i>by A.J.</i>
