@@ -42,3 +42,6 @@ I remember exactly what our apartment looked like when we left that day. The dir
  The waiting area is packed with people. The enormity of the crowd causes my breath to catch in my throat before I remember to breathe again and release the air out in a slow exhale. I scan the crowd slowly, people jostling me to get by even though I am all the way against a wall. I grip my bags tightly so that I don’t lose them as I glance around me at the crowd.
 
 And then none of that matters because I see her. One braid of her dark hair falls across her face as she sits bent over a book. Her glasses are sliding down her nose, and as I watch she pushes them back up her nose without looking up. The line of a scar disappears into the collar of her jacket, her left arm is in a brace, and I see a pair of crutches nearby that must be hers. But other than that she just looks lonely. Even in the overly crowded room, the spaces beside her are unoccupied, and while her right arm holds her book, her left arm wraps around herself. Even with the warmth of the room, she seems to fold in on herself as if keeping out the cold. I stand there, completely frozen until she looks up and her eyes catch mine. 
+
+
+<i>by C.H.</i>
