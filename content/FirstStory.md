@@ -19,3 +19,6 @@ whole. And we were hungry, she and I, and <br/>
 the world was hungry too and she knew, she  <br/>
 knew the small and skinny precious thing I was  <br/>
 to her, yellow like gold, sharp like rain. <br/>
+
+
+<i>by A.J.</i>
