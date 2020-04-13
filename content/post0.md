@@ -48,3 +48,6 @@ of crying on the burning, burned-up places. I <br/>
 cannot be the avenging angel curled inside your splintered altar but I can be a soft place for your knees. <br/>
 
 I can let you rest. 
+
+
+<i>by A.J.</i>
