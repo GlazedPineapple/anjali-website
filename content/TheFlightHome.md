@@ -1,6 +1,6 @@
 +++
 title = "The Flight Home"
-date = 2020-07-15
+date = 2019-07-15
 +++
 
 I grip the handle of my suitcase harder and step out into the crowded airport. Follow the signs, check in to my flight. Security is that way. I haven’t seen her in three months. I haven’t seen her since the accident. While I flew home with my parents, she stayed at the hospital in Boston. They wouldn’t let me return until now. I could feel their eyes on me as I limped down the hall to the bathroom every morning. Their rush to hand me my crutches every time I stood up. They wouldn’t let me book the flight until I could walk to the store and back with no help. Every day before I go to sleep I call her. But calling just isn’t the same. I need to see that she’s okay. I need to know that she’s okay.
