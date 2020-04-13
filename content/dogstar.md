@@ -1,6 +1,6 @@
 +++
 title = "Dog Star"
-date = 2020-29-03
+date = 2020-03-29
 +++
 
 Ash stands in the yard, the night breeze brushing their harvest-moon skin. It’s cold (although, master of homeostasis that they are, they do not shift or shiver) and their bare arms prickle with scattered goosebumps that mirror the steady stars above.
