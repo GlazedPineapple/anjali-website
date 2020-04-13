@@ -1,5 +1,5 @@
 +++
-Title = "Larry Love"
+Title = "The Macabre Misadventures of Larry Love"
 date = 2020-03-29
 +++
 
