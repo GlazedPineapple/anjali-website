@@ -29,3 +29,6 @@ The waves do not soften. <em>The sea is the sea. A mother is a woman. A woman is
 <p><em>Yes,</em> says the sea. <em>She wept for you, in the end. Isn’t that enough?</em><br>
 <p>He shakes his head, just once. His smile is a waning moon. “Not for me.”</p>
 <em>Goodnight, Jimmy,</em> says the sea, and the old man’s wind-swollen lips offer no answer. The numbness has spread now, up to his shoulders, muffling the screaming of his bones, so that when he finally slips his head under the water, he feels nothing, nothing at all.
+
+
+<i>by A.J.</i>
