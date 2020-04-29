@@ -20,5 +20,6 @@ hyde_sticky = true
 hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
-    {url = "https://ourownwords.net/about/", name = "About"},
+    {url = "/about/", name = "About"},
+    {url = "/bios/", name = "Meet the Crew"},
 ]
