@@ -20,3 +20,7 @@ His Little Sibling has grown up now, but young ghosts still become ancient thing
 He knows they won’t live there forever. Other boys and girls and people in between have passed through before and will again. 
 
 But deep in his cold dead heart, Elliot, the teenager with the head full of wires and the hands full of keys, with their dog in their lap and their headphones on their neck, now asleep and breathing softly into their starlit dreams, is the one that will always be his.
+
+
+
+<i>by A.J.</i>
