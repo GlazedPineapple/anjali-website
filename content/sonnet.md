@@ -1,5 +1,5 @@
 +++
-title = "A Strange Sad Sonnet (After Percy Bysshe Shelley)"
+title = "The Sculptor's Love Sonnet (After Percy Bysshe Shelley)"
 date = 2020-07-02
 +++
 
