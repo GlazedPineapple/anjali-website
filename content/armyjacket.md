@@ -13,7 +13,7 @@ a rope in the hangman’s hands <br/>
 and also an embrace.
 
 You will smell <br/>
-Like spiderwebs. <br/>
+like spiderwebs. <br/>
 You will taste <br/>
 like the tear <br/>
 that landed <br/>
